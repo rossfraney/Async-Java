@@ -1,2 +1,2 @@
-﻿# Async-Java
-Practicing / Implementing Crpytography protocols in Java
+﻿# Async Chat Applet
+Implementing a Messenger style Asynchronous Chat Applet
